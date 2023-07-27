@@ -1,2 +1,9 @@
 # HR-ANALYTICS-DASHBOARD
 HR Analytics Dashboard of dataset  created using Power BI tool.
+![Pic 1](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/2c750ae4-8906-4ece-a3e9-3b28e2998b79)
+![Pic 2](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/aacf090c-a2bf-4ae4-a4e4-a7493a395d8e)
+![Pic 3](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/1eec6ad4-7b6b-4526-ae44-68562c0d3067)
+![Pic 4](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/eb1de880-3ee8-4861-b241-2e759858b732)
+![Pic 5](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/dca5e0a3-fbf7-47bd-8581-8219327b9643)
+![Pic 6](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/6575b659-139e-49e3-a1d2-154d6558e560)
+![Pic 7](https://github.com/JAYESH-555/HR-ANALYTICS-DASHBOARD/assets/111244289/3c77b07d-5864-4560-8a3c-3041409818df)
